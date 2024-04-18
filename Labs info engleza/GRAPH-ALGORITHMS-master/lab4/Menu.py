@@ -1,0 +1,40 @@
+def print_menuLAB1():
+    print("\n _______________MENU LAB 1_______________\n")
+    print("-> 1 to see the number of vertices")
+    print("-> 2 to see the vertices")
+    print("-> 3 to check if a edge exists")
+    print("-> 4 to see the degree of a vertex")
+    print("-> 5 to see the neighbours of a vertex")
+    print("-> 6 to see the cost of an edge")
+    print("-> 7 to modify the cost of an edge")
+    print("-> 8 to add an edge")
+    print("-> 9 to remove an edge")
+    print("-> 10 to add a vertex")
+    print("-> 11 to remove a vertex")
+    print("-> 12 to copy a graph")
+    print("-> w to write the graph to file")
+    print("-> <p> to print the current graph")
+    print("-> <prev> to go back to the initial menu")
+    print("\n____________________END___________________\n")
+
+def print_menuLAB2():
+    print("\n _______________MENU LAB 2_______________\n")
+    print("-> ex4 to print the connected components of the graph\n")
+    print("-> <p> to print the current graph")
+    print("-> <prev> to go back to the initial menu")
+    print("\n____________________END___________________\n")
+
+def menu():
+    print("\n __________________MENU___________________\n")
+    print("How do you want to get the graph?\n")
+    print("-> <random> to create a random graph")
+    print("-> <file> to get the graph from a file")
+    print("-> <exit> to exit the program")
+    print("\n____________________END___________________\n")
+
+def print_menuLAB4():
+    print("\n _______________MENU LAB 4_______________\n")
+    print("-> ex6 to print the MST \n")
+    print("-> <exit> to exit")
+    print("-> <prev> to go back to the initial menu")
+    print("\n____________________END___________________\n")

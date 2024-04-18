@@ -1,0 +1,2 @@
+class exceptionGraph(Exception):
+    pass
